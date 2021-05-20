@@ -77,3 +77,7 @@ C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\obj\D
 C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\obj\Debug\OdeToFoodFour.csproj.CopyComplete
 C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\obj\Debug\OdeToFoodFour.dll
 C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\obj\Debug\OdeToFoodFour.pdb
+C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\bin\EntityFramework.dll
+C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\bin\EntityFramework.SqlServer.dll
+C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\bin\EntityFramework.xml
+C:\Users\Master\source\GitKraken\MVC 4 project\OdeToFoodFour\OdeToFoodFour\bin\EntityFramework.SqlServer.xml
